@@ -1,0 +1,24 @@
+[submodule "TrickOrTreat"]
+	path = TrickOrTreat
+	url = https://github.com/bbo51dog/TrickOrTreat
+[submodule "PMLineAPI"]
+	path = PMLineAPI
+	url = https://github.com/bbo51dog/PMLineAPI
+[submodule "PMDiscordAPI"]
+	path = PMDiscordAPI
+	url = https://github.com/bbo51dog/PMDiscordAPI
+[submodule "JetPack"]
+	path = JetPack
+	url = https://github.com/bbo51dog/JetPack
+[submodule "TaxSystem"]
+	path = TaxSystem
+	url = https://github.com/bbo51dog/TaxSystem
+[submodule "RegularlyMessage"]
+	path = RegularlyMessage
+	url = https://github.com/bbo51dog/RegularlyMessage
+[submodule "ItemNameChanger"]
+	path = ItemNameChanger
+	url = https://github.com/bbo51dog/ItemNameChanger
+[submodule "CmdDisable"]
+	path = CmdDisable
+	url = https://github.com/bbo51dog/CmdDisable
